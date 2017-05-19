@@ -1,0 +1,70 @@
+/*global style*/
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.clearfix {
+  clear: both;
+}
+
+/*app styles*/
+
+body {
+  width: 900px;
+  margin: 0 auto;
+}
+
+header {
+  width: 900px;
+  height: 50px;
+  margin: 20px auto;
+}
+
+#logo {
+  float: left;
+  margin-right: 10px
+}
+
+#main-head {
+  float: left;
+}
+
+#main-head h1{
+  font-family: 'Yellowtail', cursive;
+  font-size: 40px;
+    margin-top: -5px;
+}
+
+#main-head h5 {
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 10px;
+  letter-spacing: .01em;
+}
+
+.nav {
+  float: right;
+  margin-top: 10px;
+}
+
+.nav ul li {
+  display: inline-block;
+  margin-left: -2px;
+}
+
+.nav ul li:nth-child(6) {
+  margin-right: 7px;
+}
+
+.spacer {
+  height: 20px;
+  background: #000;
+}
+
+/*main starts here!*/
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+}
