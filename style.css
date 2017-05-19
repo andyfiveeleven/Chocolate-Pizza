@@ -100,6 +100,12 @@ h2 {
 }
 
 p {
+  text-indent: 30px;
   font-family: 'Merriweather', serif;
-  font
+  font-size: 15px;
+  letter-spacing: .5px;
+  line-height: 25px;
+  color: #777;
+  margin-bottom: 30px;
+  margin-right: 0px;
 }
